@@ -7,6 +7,7 @@ import SEO from "../components/seo"
 
 import One from "../components/effectOne"
 
+
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
