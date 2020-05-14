@@ -7,10 +7,9 @@ import SEO from "../components/seo"
 
 import Two from "../components/effectTwo"
 
-const SecondPage = (props: PageProps) => (
+const SecondPage = () => (
   <Layout>
     <SEO title="Page two" />
-    <Two />
   </Layout>
 )
 

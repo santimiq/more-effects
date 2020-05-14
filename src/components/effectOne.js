@@ -22,7 +22,6 @@ const One = () => {
   return (
     <div>
       <div class="my-div"></div>
-      <div class="hero-title">OFBEAT</div>
     </div>
   )
 }

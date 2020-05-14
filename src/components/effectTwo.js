@@ -1,12 +1,12 @@
 import React from "react"
-import effectOne from "./effectTwo.css"
+import effectTwo from "./effectTwo.css"
 
 const Two = () => {
   return (
     <main>
       <div class="frame">
         <div class="frame__title-wrap">
-          <h1 class="frame__title">CSS-only Marquee Menu Effect</h1>
+          {/* <h1 class="frame__title">CSS-only Marquee Menu Effect</h1> */}
         </div>
       </div>
       <nav class="menu">
